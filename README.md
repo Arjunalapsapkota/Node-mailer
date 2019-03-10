@@ -1,3 +1,3 @@
 # Node-mailer
 
-![Nodemailer Demo] (/public/assets/images/nodemailerz.gif)
+![Nodemailer Demo] (nodemailerz.gif)
