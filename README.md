@@ -1,3 +1,2 @@
 # Node-mailer
-
-![Nodemailer Demo] (/nodemailerz.gif)
+<img src="/nodemailerz.gif">
