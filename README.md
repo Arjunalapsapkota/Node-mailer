@@ -1,3 +1,3 @@
 # Node-mailer
 
-![Nodemailer Demo] (nodemailerz.gif)
+![Nodemailer Demo] (/nodemailerz.gif)
